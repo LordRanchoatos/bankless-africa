@@ -61,12 +61,12 @@ const Navbar = ({ component, className }) => {
                       <Dropdown.Item>
                         <a
                           target="_blank"
-                          href="https://medium.com/@banklessafrica"
+                          href="https://mirror.xyz/0x74021a7599CF772275c6d5699Fb681bEeB0d7AA8"
                           className={
                             'px-3 py-2 text-lg text-black font-bold hover:text-red-600 cursor-pointer hover:font-black'
                           }
                         >
-                          Blogs
+                          Blog
                         </a>
                       </Dropdown.Item>
 
@@ -250,12 +250,12 @@ const Navbar = ({ component, className }) => {
                     <Dropdown.Item>
                       <a
                         target="_blank"
-                        href="https://medium.com/@banklessafrica"
+                        href="https://mirror.xyz/0x74021a7599CF772275c6d5699Fb681bEeB0d7AA8"
                         className={
                           'px-3 py-2 text-lg text-black font-bold hover:text-red-600 cursor-pointer hover:font-black'
                         }
                       >
-                        Blogs
+                        Blog
                       </a>
                     </Dropdown.Item>
 
